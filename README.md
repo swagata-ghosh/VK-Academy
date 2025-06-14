@@ -1,2 +1,2 @@
 # VK-Academy
-An interactive EdTech platform.
+This is an interactive EdTech platform.
